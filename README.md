@@ -50,11 +50,11 @@ Install Tkinter
 Starting Page
 
 <p align="center">
-    <img src="https://github.com/Mukeshp405/Stone-Paper-Scissors/tree/main/Screenshot/image1.png" width="800">
+    <img src="https://github.com/Mukeshp405/Stone-Paper-Scissors/tree/main/Screenshot/image1.png" width="800"/>
 </p>
 
 Selection Page
 
 <p align="center">
-    <img src="https://github.com/Mukeshp405/Stone-Paper-Scissors/tree/main/Screenshot/image2.png" width="800">
+    <img src="https://github.com/Mukeshp405/Stone-Paper-Scissors/tree/main/Screenshot/image2.png" width="800"/>
 </p>
