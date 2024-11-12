@@ -56,5 +56,5 @@ Install Tkinter
 - Selection Page
 
 <p align="center">
-    <img src="Screenshot/image2.png" width="800" height="700"/>
+    <img src="Screenshot/image2.png" width="600" height="700"/>
 </p>
