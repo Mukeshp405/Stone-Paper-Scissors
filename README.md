@@ -47,14 +47,14 @@ Install Tkinter
 
 # Interface
 
-Starting Page
+- Starting Page
 
 <p align="center">
-    <img src="Screenshot/image1.png" width="800"/>
+    <img src="Screenshot/image1.png" width="600" height="700"/>
 </p>
 
-Selection Page
+- Selection Page
 
 <p align="center">
-    <img src="Screenshot/image2.png" width="800"/>
+    <img src="Screenshot/image2.png" width="800" height="700"/>
 </p>
